@@ -1,0 +1,62 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="utf-8"/>
+	<title>個人簡介</title>
+	<style type="text/css">
+	h3.abc{text-align:center;font-size:35px;
+	background-color:#7788aa;width:1000px;margin-left:auto;margin-right:auto;
+	}
+	li{
+	font-size:30px;font-weight:bold;padding:5px;width:1000px;margin-left:auto;margin-right:auto;
+	}
+	div.title{
+	font-size:20px;background-color:#888888;font-weight:bold;padding:10px;width:1000px;margin-left:auto;margin-right:auto;
+	}
+	div.content{
+	font-size:18px;padding:10px;width:1000px;margin-left:auto;margin-right:auto;
+	}
+	
+	
+	
+	</style>
+</head>
+<body>
+    <h3 class="abc">Prepare</h3>
+	 <li>個人簡介</li>
+	 <div class="content">
+	彭彭老師你好，我叫詹子霆，畢業於逢甲應用數學系，畢業兩年多了，個性算是開朗，比較慢熟，
+	蠻喜歡參加活動的，第一份工作是在港口傳統產業的公司上班，但是沒有什麼挑戰性，
+	於是去了澳洲打工渡假一年，體驗一下生活，回來後思考未來的方向，發現程式工程師蠻符合我想要的工作，
+	並且覺得對程式蠻有熱誠的。
+	</div>
+     <li>如果你還不是軟體工程師，請回答以下問題:</li>
+	 <div class="title">為什麼想成為網站工程師?</div>
+	      <div class="content">因為在大學時，有上過c語言的基礎課程，
+		  那時候就覺得寫程式蠻有趣的，但是因為我們系並沒有繼續精進的課程，於是沒有把它列入職涯的考慮，
+		  然後到了今年因為疫情，從澳洲打工度假回來思考自己想做什麼，發現程式工程師很適合自己，
+		  而且我也蠻喜歡持續學習新的東西，並且在觀看YOUTUBE上的教學，
+		  邊寫的時候，得到些成就感，然後對寫程式更加有興趣，想要明年成功當上前端工程師。
+		  </div>
+	 <div class="title">為了成為網站工程師，你曾經做過什麼努力?</div>
+		  <div class="content">主要的努力，就是跟著彭彭老師的教程學習，
+		  然後在自己整理筆記紀錄自己不熟悉的內容，平常有空的時候就會看看別人分享的心得，
+		  並且跟從事軟體工程師的朋友討論需要學習的東西。
+		 </div>
+	 <div class="title">對於網站工程師的職業想像是什麼?</div>
+	      <div class="content">根據業主的要求，做出適合的網頁，然後比較大的項目，需要大家一起協作，
+		  平常應該就是維護網頁，開發些功能，時間安排上，除了上班，
+		  感覺下班也要留時間學習正在更新的東西。</div>
+	 <li>如果參與這個計畫，你會怎麼安排學習時間?</li>
+	      <div class="content">學習時間的規劃，我會把它當作正職的心態學習，一天8小時，六日比較多休息時間，
+		  把一周的作業排個行程表，然後睡前複習，把寫程式當成最優先的事情，然後耐心打基礎，持續學習。</div>
+	 <li>如果參與這個計畫，你預期會碰到什麼樣的困難?你打算怎麼面對並解決它?</li>
+	 	  <div class="content">可能會學到很多暫時不能理解的部分，會試著發問討論，網路上找資源，
+		  去理解它，也可能遇到心態比較焦慮的時候，平常會好好運動，讓心情心態保持比較好的狀態。</div>
+	 <li>想要對我們說的事情?</li>
+          <div class="content">還有兩個月的時間，可以先把什麼基礎自學，有助於跟上每一個階段呢，謝謝。</div>
+
+
+
+</body>
+</html>
